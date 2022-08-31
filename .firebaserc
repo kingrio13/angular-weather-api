@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "pwa-app-7a7c8"
+  },
+  "targets": {
+    "pwa-app-7a7c8": {
+      "hosting": {
+        "pwa": [
+          "pwa-app-7a7c8"
+        ]
+      }
+    }
+  }
+}
